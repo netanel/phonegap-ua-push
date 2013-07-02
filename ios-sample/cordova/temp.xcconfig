@@ -1,0 +1,1 @@
+OTHER_LDFLAGS = $(OTHER_LDFLAGS) -force_load "$(SRCROOT)/Airship/libUAirship-*.a"
